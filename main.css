@@ -1,0 +1,10 @@
+ body {
+    background: #BACADB;
+    display: flex;
+    justify-content: center;
+    font-family: "Courier";
+ }
+
+#score {
+  font-size: 30px;
+}
